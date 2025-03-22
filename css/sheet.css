@@ -1,0 +1,108 @@
+
+.body{
+	background-image: url('images/bg.jpg');
+}
+.box01{
+	color:blueviolet;
+	background-color:black ;
+	font-family:monospace;
+	border: 4px dotted;
+}
+.box02{
+	color:yellow ;
+	background-color:gray ;
+	font-size:16 ;
+	border:4px dashed;
+	border-color:black;
+	margin:10%;
+}
+.box03{
+	color:green;
+	background-color:bisque ;
+	font-family:monospace;
+	border: 4px solid;
+	border-color:black;
+}
+.box04{
+	color:white;
+	background-color:red ;
+	font-family:fantasy;
+	border:4px double;
+	border-color:blue;
+}
+
+.box05{
+	color:lightblue;
+	background-color:rgb(238, 130, 238) ;
+	font-family:monospace;
+	border:4px groove;
+	border-color:black;
+}
+.box06{
+	color:navajowhite;
+	background-color:hsl(248, 53%, 58%);
+	font-family:24;
+	border:4px ridge ;
+	border-color:black;
+}
+.box07{
+	color:whitesmoke;
+	background-color:#b4b4b4;
+	font-family:16;
+	border:4px inset ;
+	border-color:black;
+}
+.box08{
+	color:rgba(245,255,250,1.0);
+	background-color: #000080;
+	border:4px outset ;
+	border-color:black;
+}
+.box09{
+	color:darkblue;
+	background-color:#fc9 ;
+	border: none ;
+	border-color:black;
+}
+.box010{
+	color:darkmagenta;
+	background-color:#FAFAD2 ;
+	font-family:monospace;
+	border: double ;
+	border-color:black;
+}
+
+
+
+.link{
+	text-align:center;
+}
+.link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.link visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.link hover {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.link active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.area{
+ font-size: 34;
+text-align: center;
+background-color: black;
+color: whitesmoke;
+}
